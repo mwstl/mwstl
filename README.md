@@ -28,7 +28,7 @@ Nurturing a ***virtual garden***
 <p align="center">Code</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,nextjs,ts,js,html,css,sass,tailwind,processing,graphql" />
+    <img src="https://skillicons.dev/icons?i=vercel,nextjs,react,ts,js,html,css,sass,tailwind,processing,graphql"  alt="Vercel, NextJs, React, TypeScript, JavaScript, HTML, CSS, SASS, TailwindCSS, Processing, and GraphQL icons" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ Nurturing a ***virtual garden***
 <p align="center">Other</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender,unity,obsidian,notion,ae,ps" />
+    <img src="https://skillicons.dev/icons?i=figma,blender,unity,obsidian,notion,ae,ps" alt="Figma, Blender, Unity, Obsidian, Notion, After Effects, and Photoshop icons" />
   </a>
 </p>
 
