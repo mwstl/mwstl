@@ -1,5 +1,5 @@
 ### Hi, I = Micole •ᴗ•
-> It's me, **Miii**, *aka (m)wstl*
+> It's **Miii**, *aka (m)wstl*
 
 ---
 
