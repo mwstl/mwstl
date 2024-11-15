@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 UX engineering co-op at ICBC 
 
-[![Virtual Garden icon, a seedling with three stars](https://private-user-images.githubusercontent.com/62170592/381876741-1f5cf616-6561-45d2-8206-01fbef75d647.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNjMwNjQsIm5iZiI6MTczMDM2Mjc2NCwicGF0aCI6Ii82MjE3MDU5Mi8zODE4NzY3NDEtMWY1Y2Y2MTYtNjU2MS00NWQyLTgyMDYtMDFmYmVmNzVkNjQ3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDA4MTkyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhOWZiMzQyMmRhZjgzOTA1YWQ4N2Q5MzQ0MzhhYTRlYTdjMzMzZDUxMzg3N2ZkNTdiMWIyODg2YWJhN2IxZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UhpKDug7otDa_x_GLN6Gasr_VMV5T6gBnun4SbANJVg)](https://quartz-nu.vercel.app/)
+[![Virtual Garden icon, a seedling with three stars](https://raw.githubusercontent.com/mwstl/mwstl/refs/heads/main/github-garden.png)](https://quartz-nu.vercel.app/)
 Nurturing a [***virtual garden***](https://quartz-nu.vercel.app/)
 
 ---
