@@ -1,5 +1,5 @@
-### Hi, I = Micole •ᴗ•
-> It's **Miii**, *aka (m)wstl*
+### Hi, I'm **Micole** •ᴗ•
+> aka **Miii**, *aka (m)wstl*
 
 ---
 
@@ -68,7 +68,7 @@ const Micole: Me = {
     "ig-feed": ["poster design", "3D model", "architecture", "product renders", "painting/drawing", "fx trading", "vehicles"],
     music: {
       genres: ["vocaloid", "C/J/K-pop", "J-rock", "rap", "hip-hop", "metal", "electro", "R&B", "instrumental", "game ost", "breakcore", "lofi", "glitch hop", "symphonic hardcore", "techno", "ambient", "... most things with rhythm or melody"],
-      artists: ["Isekaijoucho", "TatshMusicCircle", "Linkin Park", "Babymetal", "Ado", "Camellia", "Team Grimoire", "LOLUET", "Chanmina", "9Lana", "Mori Calliope", "Ninomae Ina'nis", "KAF", "kordhell", "AZALI", "Mabodofu", "Dustcell", "t+pazolite", "Eve", "Mili", "tnbee", "tn-shi", "Nhato", "Atarashii Gakko!", "Dazbee", "Azari", "Rosu", "... and many more"],
+      artists: ["Isekaijoucho", "TatshMusicCircle", "Linkin Park", "Babymetal", "Ado", "Camellia", "Team Grimoire", "LOLUET", "Aiobahn", "Chanmina", "9Lana", "Mori Calliope", "Ninomae Ina'nis", "KAF", "kordhell", "AZALI", "Mabodofu", "Dustcell", "t+pazolite", "Eve", "Mili", "tnbee", "tn-shi", "Nhato", "Atarashii Gakko!", "Dazbee", "Azari", "Rosu", "... and many more"],
       "game-music": ["Cytus", "Maplestory", "Arcaea", "NieR", "Wuthering Waves", "Punishing: Gray Raven", "Honkai Star Rail", "Goddess of Victory: Nikke", "Legend of Zelda", "... probably forgot some"],
     },
     tech: ["crypto", "web3", "VR/AR/XR"],
