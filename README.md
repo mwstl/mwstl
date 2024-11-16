@@ -1,5 +1,5 @@
 ### Hi, I'm **Micole** •ᴗ•
-> aka **Miii**, *aka (m)wstl*
+> *aka **Miii**, aka (m)wstl*
 
 ---
 
