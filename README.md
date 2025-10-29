@@ -3,23 +3,13 @@
 
 ---
 
-💻 Currently studying Interactive Arts and Technology at Simon Fraser University
+💻 Interactive Arts and Technology at Simon Fraser University
 
 ✨ Interested in immersive experiences, future web technologies, VR/AR/XR
 
 👍 Enjoying music and games
 
 👀 Open for work :)
-
----
-
-### Currently working on...
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-UX engineering co-op at ICBC 
-
-[![Virtual Garden icon, a seedling with three stars](https://raw.githubusercontent.com/mwstl/mwstl/refs/heads/main/github-garden.png)](https://quartz-nu.vercel.app/)
-Nurturing a [***virtual garden***](https://quartz-nu.vercel.app/)
 
 ---
 
